@@ -1,2 +1,2 @@
 # B-TREES
-This repository contains the Introduction to the B-trees.
+This repository contains the Paper/Report on the B-trees.
